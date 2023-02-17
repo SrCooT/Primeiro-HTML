@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
-
+- git
 ## 💻 Projeto 
 
 Meu primeiro Projeto de HTML 
